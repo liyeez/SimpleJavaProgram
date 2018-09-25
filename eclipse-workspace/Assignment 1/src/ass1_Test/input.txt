@@ -1,0 +1,13 @@
+Hotel Surfers 101 2
+Hotel Surfers 102 2
+Hotel Surfers 103 1
+Hotel Burleigh 101 2
+Booking Aarthi Jan 25 2 single 1 double 1
+Booking Rob Jan 24 4 double 1
+Booking Stephanie Jan 26 1 double 1
+Change Aarthi Jan 27 3 single 1
+Booking Gary Jan 25 2 single 1
+Cancel Stephanie
+Booking Hussein Jan 26 1 single 1
+Print Surfers
+

@@ -1,0 +1,10 @@
+1. clash booking
+2. cancel booking without cust
+3. change booking without cust
+4. different hotels satisfied request
+5. change booking that is exact same as previous booking
+6. Book such that first hotel in loop cannot satisfied, and only the first declared rooms can be specified
+7. create room intervals of bookings
+8. same thing for cancellation, change
+9. cancel the cancellation
+10. change and if change rejected and cancel and rebook the same failed date

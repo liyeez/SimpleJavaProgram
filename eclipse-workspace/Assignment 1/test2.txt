@@ -1,0 +1,7 @@
+Hotel Jazz 105 3
+Booking Julie Apr 25 3 triple 1            
+Change Julie Apr 25 3 triple 1             #Test to change the booking to the same time and request
+Cancel Julie                               #Cancel my booking
+Change Julie Apr 25 3 triple 1             #Now test whether I can change my previous booking
+Booking Julie Apr 25 3 triple 1            #Book again 
+Print Jazz
