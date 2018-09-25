@@ -1,0 +1,17 @@
+Hotel hot&fuzz 104 2
+Hotel hot&fuzz 102 1
+Hotel hot&fuzz 101 1
+Hotel hot&fuzz 105 3
+Booking Cece Jan 31 3 single 2 double 1 triple 1
+Booking Ian Feb 01 4 triple 1
+Hotel Beluga 200 1
+Hotel Beluga 202 1
+Booking Chris Feb 02 2 triple 1
+Hotel Beluga 203 3
+Booking Chris Feb 02 2 triple 1
+Cancel Steph
+Booking Steph Feb 01 2 double 1 single 2
+Booking Steph Feb 01 2 single 2
+Change Alan
+Print hot&fuzz
+Print Beluga

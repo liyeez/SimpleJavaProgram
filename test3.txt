@@ -1,0 +1,10 @@
+Hotel Cello 101 2
+Hotel Cello 102 2
+Hotel Cello 103 1
+Booking Seth Jan 20 3 double 2
+Print Cello
+Change Seth Jan 18 3 double 1 single 1
+Print Cello
+Cancel Seth
+Print Cello
+

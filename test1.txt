@@ -1,0 +1,17 @@
+Hotel hot&fuzz 104 2
+Hotel hot&fuzz 102 3
+Hotel hot&fuzz 103 1
+Hotel hot&fuzz 105 1
+Booking Cece Jan 31 3 triple 1 double 1 single 2  		#Test booking clash
+Booking Ian Feb 01 4 triple 1     		#Test rejected
+Hotel Beluga 200 1				
+Hotel Beluga 202 1				
+Booking Chris Feb 02 2 triple 1			#Test rejected
+Hotel Beluga 203 3
+Booking Chris Feb 02 2 triple 1                 
+Cancel Steph                                    #Test cancelling a non-existent cust
+Booking Steph Feb 01 2 double 1 single 2        #Test if one hotel cannot suffice 
+Booking Steph Feb 01 2 single 2                 
+Change Alan                                     #Test changing a non-existent cust
+Print hot&fuzz                                 
+Print Beluga
