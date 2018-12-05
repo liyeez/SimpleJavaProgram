@@ -46,26 +46,32 @@ Booking Aarthi Jan 25 2 single 1 double 1
 
 Booking Rob Jan 24 4 double 1
           # Rob's booking request is for 1 double room starting on Jan 24 for 4 nights
+          
           # Assign room 102 of Hotel Surfers since room 101 is occupied (output Booking Rob Surfers 102)
 
 Booking Stephanie Jan 26 1 double 1
           # Stephanie's booking request is for 1 double room starting on Jan 26 for 1 night
+          
           # Assign room 101 of Hotel Burleigh (output Booking Stephanie Burleigh 101)
 
 Change Aarthi Jan 27 3 single 1
           # Change Aarthi's booking to 1 single room starting on Jan 27 for 3 nights
+          
           # Deassign rooms 101 and 103 of Hotel Surfers and assign room 103 (output Change Aarthi Surfers 103)
 
 Booking Gary Jan 25 2 single 1
           # Gary's booking request is for 1 single room starting on Jan 25 for 2 nights
+          
           # Assign room 103 of Hotel Surfers (output Booking Gary Surfers 103)
 
 Cancel Stephanie
           # Cancel booking 3
+          
           # Deassign room 101 of Hotel Burleigh (output Cancel Stephanie)
 
 Booking Hussein Jan 26 1 single 1
           # Hussein's Booking request is for 1 single room starting on Jan 26 for 1 night
+          
           # Request cannot be fulfilled (output Booking rejected)
 
 Print Surfers
@@ -96,5 +102,5 @@ Surfers 102 Jan 24 4
 
 Surfers 103 Jan 25 2 Jan 27 3
 
-
+---------------------------------------------------------------------------------------------------------------------------
 Written using Eclipse Oxygen IDE
